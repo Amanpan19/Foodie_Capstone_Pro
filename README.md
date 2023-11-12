@@ -18,3 +18,10 @@ Backend:
           Spring Boot for building RESTful APIs.
           MySQL for relational data storage.
           MongoDB for non-relational data storage.
+
+![image](https://github.com/Amanpan19/Foodie_Capstone_Pro/assets/120437937/793cdca3-d4b3-4fb1-bd0a-74874c155a4c)
+![image](https://github.com/Amanpan19/Foodie_Capstone_Pro/assets/120437937/67d31d08-bfd5-44ee-977a-bb481ccbfd2a) ![image](https://github.com/Amanpan19/Foodie_Capstone_Pro/assets/120437937/6e97f016-83a3-4438-a1db-1c2265ba90b8)
+
+
+
+          
